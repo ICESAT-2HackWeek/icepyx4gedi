@@ -29,7 +29,7 @@ We will focus on the footprint data products, not the gridded data products. The
 ### Tools
 
 - [h5py](https://docs.h5py.org/en/stable/) - has historically been the library used to read GEDI footprint data into Python.
-- [icepyx](https://icepyx.readthedocs.io/en/latest/) - "shared library of resources - including existing resources, new code, tutorials, and use-cases/examples - that simplify the process of querying, obtaining, analyzing, and manipulating ICESat-2 and (via the QUEST module) relevant ancillary datasets to enable scientific discovery." (The icepyx Developers. icepyx [Computer software]. https://github.com/icesat2py/icepyx)
+- [icepyx](https://icepyx.readthedocs.io/en/latest/) - "shared library of resources - including existing resources, new code, tutorials, and use-cases/examples - that simplify the process of querying, obtaining, analyzing, and manipulating ICESat-2 and (via the QUEST module) relevant ancillary datasets to enable scientific discovery." The icepyx Developers. icepyx [Computer software](https://github.com/icesat2py/icepyx)
 - [xarray](https://docs.xarray.dev/en/stable/)
 - [Dask](https://docs.dask.org/en/stable/)
 - GitHub
