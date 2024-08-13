@@ -44,6 +44,7 @@ Below are links to resources (i.e., tutorials, scripts, packages, and repos) tha
 - https://github.com/EduinHSERNA/pyGEDI
 - https://github.com/icesat2py/icepyx/blob/gedi/doc/source/example_notebooks/GEDI_play.ipynb
 - https://github.com/aestovall/GEDI_Workshop
+- https://github.com/search?q=repo%3ASlideRuleEarth%2Fsliderule-python%20gedi%20&type=code
 
 ## Project Goals & Tasks
 
