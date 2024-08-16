@@ -52,6 +52,10 @@ Below are links to resources (i.e., tutorials, scripts, packages, and repos) tha
 
 This project aims to create and/or extend methods and routines in the [`icepyx`](https://icepyx.readthedocs.io/en/latest/) Python library to support GEDI footprint data products.
 
+### Contributions
+
+Work and contribution can be added to the [forked icepyx repo](https://github.com/ICESAT-2HackWeek/icepyx) in the [ICESAT-2HackWeek org](https://github.com/ICESAT-2HackWeek). If you are participants want to create a fork to their own GitHub space and check in contributions there, that is fine as well. 
+
 ### Tasks
 
 Below are the list of features to be integrated into the `icepyx` Python library
