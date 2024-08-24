@@ -70,4 +70,22 @@ Below are the list of features to be integrated into the `icepyx` Python library
 
 ## Project Results
 
-TBD
+![Sticky notes of ideas to work on for the icepyx4gedi project](https://github.com/user-attachments/assets/22f1f7bc-e08e-4108-aa5a-13f849f9d894)
+
+See issues, pull requests and the project board at:
+- https://github.com/ICESAT-2HackWeek/icepyx/issues?q=is%3Aissue
+- https://github.com/ICESAT-2HackWeek/icepyx/pulls?q=is%3Apr
+- https://github.com/orgs/ICESAT-2HackWeek/projects/12/views/2
+
+Summary points:
+- Completed:
+  - Determine spatial and temporal domain for development ([#4](https://github.com/ICESAT-2HackWeek/icepyx/issues/4))
+  - Determine how to read-in GEDI L2b from Earthdata Cloud into at xarray dataset ([#3](https://github.com/ICESAT-2HackWeek/icepyx/issues/3))
+  - Visualize GEDI L2b and ATL08 using lonboard ([#7](https://github.com/ICESAT-2HackWeek/icepyx/issues/7))
+  - Determine how to discover variables from the Harmony API ([#19](https://github.com/ICESAT-2HackWeek/icepyx/issues/19))
+- In progress (to be continued after hackweek and upstreamed into icepyx):
+  - Read-in or translate GEDI L2B data to geoparquet ([#2](https://github.com/ICESAT-2HackWeek/icepyx/issues/2))
+  - Search integration into icepyx ([#5](https://github.com/ICESAT-2HackWeek/icepyx/issues/5))
+  - Data access integration into icepyx ([#6](https://github.com/ICESAT-2HackWeek/icepyx/issues/6))
+  - Create a workflow for identifying coincident ICESat-2 x GEDI footprints in an input AOI ([#1](https://github.com/ICESAT-2HackWeek/icepyx/issues/1))
+  - Modify icepyx Variables module to handle GEDI variable structure ([#15](https://github.com/ICESAT-2HackWeek/icepyx/issues/15))
