@@ -9,7 +9,21 @@ The Global Ecosystem Dynamics Investigation (GEDI) is a full waveform LiDAR inst
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-|...|...|...|...|
+|Aaron Friesz @amfriesz|...|...|...|
+|Jessica Scheick @JessicaS11|...|...|...|
+|Scott Henderson @scottyhq|...|...|...|
+|Jack Hayes @Jack-Hayes|...|...|...|
+|Zachary Fair @zachghiaccio|...|...|...|
+|Wei Ji Leong @weiji14|...|...|...|
+|H Rainak Khan Real @hrkreal|...|...|...|
+|Francesca Lingo @f-lingo|...|...|...|
+|Chao Wang @ChaoEcohydroRS|...|...|...|
+|Romina Piunno @RomiP|...|...|...|
+|Mikala Beig @mikala-nsidc|...|...|...|
+|Tasha Snow @tsnow3|...|...|...|
+|Aimee Barciauskas @abarciauskas-bgse|...|...|...|
+
+
 
 ### The Problem
 
