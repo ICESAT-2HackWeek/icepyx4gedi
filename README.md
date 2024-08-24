@@ -19,7 +19,7 @@ The Global Ecosystem Dynamics Investigation (GEDI) is a full waveform LiDAR inst
 |Francesca Lingo @f-lingo|...|...|...|
 |Chao Wang @ChaoEcohydroRS|...|...|...|
 |Romina Piunno @RomiP|...|...|...|
-|Mikala Beig|...|...|...|
+|Mikala Beig @mikala-nsidc|...|...|...|
 |Tasha Snow @tsnow3|...|...|...|
 |Aimee Barciauskas @abarciauskas-bgse|...|...|...|
 
